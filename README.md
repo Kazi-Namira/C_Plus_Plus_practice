@@ -10,7 +10,7 @@ Welcome to my **C++ Practice Repository**! This repository is designed to improv
 Beginner-friendly programs that cover the basic concepts of C++:
 - **Examples**: `Factorial of 100!.cpp`, `Fibonacci.cpp`, `Leap Year.cpp`, `Reverse of a pos int.cpp`
 
-📁 [Explore Fundamentals](./Basic)
+📁 [Explore Basic](./Basic)
 
 ---
 
