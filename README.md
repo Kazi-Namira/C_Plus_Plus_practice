@@ -1,4 +1,4 @@
-# C++ Practice Repository
+# C++ Practice Repository 📚
 
 Welcome to my **C++ Practice Repository**! This repository is designed to improve and showcase my C++ programming skills. It is neatly organized by topics for easy exploration. 🚀
 
